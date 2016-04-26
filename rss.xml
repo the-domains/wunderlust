@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[wunderlust]]></title>
         <description><![CDATA[wunderlust]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wunderlust/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 01:02:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 01:16:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wunderlust/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Wunderlust</p>]]></description>
-            <link>undefinedwunderlust/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a78d1d6b-1fc6-4b6e-b8bd-ea8119e1c48e.jpg">]]></description>
+            <link>https://thegrid.ai/wunderlust/wunderlust/index.html</link>
             <guid isPermaLink="false">b5b68042-b43b-457c-b5b4-c8d6856cbe7d</guid>
-            <pubDate>Wed, 20 Apr 2016 01:02:30 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 01:15:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
