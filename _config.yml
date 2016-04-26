@@ -2,6 +2,7 @@ name: wunderlust
 favicon: null
 layout_spectrum: 0.5472121303901076
 typography_spectrum: 0.21312980516813695
+title: wunderlust
 cta:
   domain: null
   bucket: null
